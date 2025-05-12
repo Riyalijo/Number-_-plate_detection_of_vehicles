@@ -1,4 +1,5 @@
-# Number-_-plate_detection_of_vehicles[5/12, 1:54 PM] ʀɪʏᴀ: Overview: Number Plate Detection of Vehicles
+# Number-_-plate_detection_of_vehicles_
+Overview:
 
 1. Introduction
 Number plate detection (NPD), also known as Automatic Number Plate Recognition (ANPR), is a computer vision technique used to automatically identify and read vehicle license plates from images or video. It has applications in traffic enforcement, toll collection, parking management, and security surveillance.
